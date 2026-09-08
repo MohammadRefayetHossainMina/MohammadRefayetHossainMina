@@ -1,21 +1,23 @@
 # Mohammad Refayet Hossain Mina
 
-Junior software developer in Sydney. **Python · JavaScript · Git**.
+Junior software engineer in Sydney. **Python · JavaScript · Git**
 
-I am in the **Correlation One Software Development** program through **Amazon Career Choice**. I am looking for an entry-level **software engineer**, **full stack**, **integration**, or **application support** role. Eligible to work in Australia.
+[LinkedIn](https://www.linkedin.com/in/mohammad-mina/) · Amazon Career Choice / Correlation One Software Development
 
-Previously I supported production systems at **eHealth NSW** (Gold Team) — 60+ critical pathology incidents a day.
+Looking for an entry-level **software engineer**, **full stack**, **integration**, or **application support** role. Eligible to work in Australia.
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-mina/) · [GitHub](https://github.com/MohammadRefayetHossainMina)
+Previously supported production systems at **eHealth NSW** (Gold Team) — 60+ critical pathology incidents a day.
 
 ## Featured work
 
-These match my resume:
+Live pages work in LinkedIn Featured. Repo folder URLs do not.
 
-| Project | What it is |
-|---|---|
-| [pocketbudget-cli-v2](https://github.com/MohammadRefayetHossainMina/pocketbudget-cli-v2) | Python CLI with 26 tests and a layered design |
-| [blackjack-js](https://mohammadrefayethossainmina.github.io/blackjack-js/) | Browser Blackjack (HTML, CSS, JavaScript). Python CLI version is in [python-projects](https://github.com/MohammadRefayetHossainMina/python-projects/tree/main/Blackjack) |
-| [demo-multiplayer-games](https://mohammadrefayethossainmina.github.io/demo-multiplayer-games/) | Dual Fire — browser FPS demo (JavaScript, Vite, WebGL) |
+| Project | What it is | Live |
+|---|---|---|
+| [PocketBudget CLI](https://github.com/MohammadRefayetHossainMina/pocketbudget-cli-v2) | Python app with 26 tests and a layered design | [Code](https://github.com/MohammadRefayetHossainMina/pocketbudget-cli-v2) |
+| [Blackjack](https://mohammadrefayethossainmina.github.io/blackjack-js/) | HTML, CSS, JavaScript browser app | [Play](https://mohammadrefayethossainmina.github.io/blackjack-js/) |
+| [Dual Fire](https://mohammadrefayethossainmina.github.io/demo-multiplayer-games/) | JavaScript, Vite, WebGL browser demo | [Play](https://mohammadrefayethossainmina.github.io/demo-multiplayer-games/) |
 
-Outside of work, game programming is a hobby ([TakeOverEmpire](https://mohammadrefayethossainmina.github.io/TakeOverEmpire/)).
+Python CLI Blackjack is in [python-projects](https://github.com/MohammadRefayetHossainMina/python-projects).
+
+Outside of work, game programming is a hobby.
