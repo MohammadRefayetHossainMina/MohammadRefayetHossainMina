@@ -10,8 +10,6 @@ Previously supported production systems at **eHealth NSW** (Gold Team) — 60+ c
 
 ## Featured work
 
-Live pages work in LinkedIn Featured. Repo folder URLs do not.
-
 | Project | What it is | Live |
 |---|---|---|
 | [PocketBudget CLI](https://github.com/MohammadRefayetHossainMina/pocketbudget-cli-v2) | Python app with 26 tests and a layered design | [Code](https://github.com/MohammadRefayetHossainMina/pocketbudget-cli-v2) |
